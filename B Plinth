@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <link href="styles.css" rel="stylesheet" type="text/css" />
+
+    <title> Plinth </title>
+    <center>
+</head>
+<body>
+  <center>
+  <nav>
+    <li><a href="http://127.0.0.1:3000/template.html?serverWindowId=275f9b5d-2420-4ab3-a635-b2ca3a66c8fb">Home</a></li>
+   <li><a href="http://127.0.0.1:3000/template.html?serverWindowId=275f9b5d-2420-4ab3-a635-b2ca3a66c8fb">The Spur</a></li>
+  <li><a href="http://127.0.0.1:3000/B Plinth?serverWindowId=bc9cc5bb-50fd-463b-9650-626848943a26">The Plinth </a></li>
+
+</nav> 
+<H1>The High Line </H1>
+</center>
+<article>
+hi a
+</article>
+
+</body>
+<footer>
+    <center>	&#169; Jadalyn Salvador
+        <br>
+        28/1/26</center>
+</footer>
+</html>
